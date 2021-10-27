@@ -1,8 +1,8 @@
-<h1>test</h1>
+<h1>How to install!</h1>
 
 Download the jar and the resource pack
 
-Put the resource pack in your folder
+Put the <a href="https://drive.google.com/file/d/1iDfEeIRtJ0ROI2DprFCgdxTPUnPudN4P/view">resource pack</a> in your folder 
 
 It needs optifine to work!
 
