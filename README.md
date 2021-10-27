@@ -74,5 +74,5 @@ That's it for now! Maybe there could be new stuff later not a part of the Jam? N
 <h1>Bugs</h1>
 <b>This plugin may be updated later on. Put any issue you find in the issues tab</b>
 <h2>Known Bugs</h2>
-Player Phone tutorial is skipped
+Player Phone tutorial is skipped <br>
 Weird candy shows the effect amplifier as "21" rather than "2!"
