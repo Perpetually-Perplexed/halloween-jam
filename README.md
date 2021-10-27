@@ -1,3 +1,5 @@
+<h1>test</h1>
+
 Download the jar and the resource pack
 
 Put the resource pack in your folder
