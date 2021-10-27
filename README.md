@@ -52,18 +52,18 @@ This armor has the defense stats of iron armor
     
   
 <h1>Candy</h1>
-Ah, candy! An essential part of halloween! You can get some here too! From the candy shop on your phone you can so many types! 
-Oooh sugary! 
-Heh? Whats this one, it looks like a lollipop but seems weird
+Ah, candy! An essential part of halloween! You can get some here too! From the candy shop on your phone you can so many types!  <br>
+Oooh sugary! <br>
+Heh? Whats this one, it looks like a lollipop but seems weird <br>
 ... A VEGETABLE???
 <h2>Sugary Candy</h2>
-Yum! Chocolatey! And thankfully generic. Gives you a nice sugar rush giving you speed 2 for 15 seconds
+Yum! Chocolatey! And thankfully generic. Gives you a nice sugar rush giving you speed 2 for 15 seconds <br>
 Not good for health though so you probaby will get a touch of hunger!
 <h2>Weird Candy</h2>  
-"This smells... off. Looks like a lollipop though so must be deleicous!"
+"This smells... off. Looks like a lollipop though so must be deleicous!"<br>
 Unfortunately, for little timmy here, it's drugged! It gives you a random potion effect and there isn't any promise it's good >:)
 <h2>Disgusting (Healthy) Candy</h2>
-What the fu-
+What the fu-<br>
 Yes, some nice organic vegan candy! It's good for your health I swear!
 
 
@@ -73,6 +73,7 @@ That's it for now! Maybe there could be new stuff later not a part of the Jam? N
 
 <h1>Bugs</h1>
 <b>This plugin may be updated later on. Put any issue you find in the issues tab</b>
+All these bug fixes will of course be seprate from the jam and will not be implemented until the jam results are released
 <h2>Known Bugs</h2>
 Player Phone tutorial is skipped <br>
 Weird candy shows the effect amplifier as "21" rather than "2!"
