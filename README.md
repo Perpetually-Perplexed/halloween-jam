@@ -51,5 +51,23 @@ This armor has the defense stats of iron armor
       Thankfully you know which to pick so their all positive effects!
     
   
+<h1>Candy</h1>
+Ah, candy! An essential part of halloween! You can get some here too! From the candy shop on your phone you can so many types! 
+Oooh sugary! 
+Heh? Whats this one, it looks like a lollipop but seems weird
+... A VEGETABLE???
+<h2>Sugary Candy</h2>
+Yum! Chocolatey! And thankfully generic. Gives you a nice sugar rush giving you speed 2 for 15 seconds
+Not good for health though so you probaby will get a touch of hunger!
+<h2>Weird Candy</h2>  
+"This smells... off. Looks like a lollipop though so must be deleicous!"
+Unfortunately, for little timmy here, it's drugged! It gives you a random potion effect and there isn't any promise it's good >:)
+<h2>Disgusting (Healthy) Candy</h2>
+What the fu-
+Yes, some nice organic vegan candy! It's good for your health I swear!
+
+
+<h1>Conclusion</h1>
+That's it for now! Maybe there could be new stuff later not a part of the Jam? Nahhhhhh
 
 <b>This plugin may be updated later on. Put any issue you find in the issues tab</b>
