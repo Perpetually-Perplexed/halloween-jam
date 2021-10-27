@@ -30,9 +30,6 @@ This costume was sold by a random blue dog in a hedge. It makes you go super fas
     Gives you speed 2, permanantly
   <h3>Boost</h3>
   
- <video width="320" height="240" controls>
-  <source src="https://i.gyazo.com/d2d9ea60f6bcb3f2f16e839ea0e78e81.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+ <img src="https://i.gyazo.com/d2d9ea60f6bcb3f2f16e839ea0e78e81.mp4" size=320 width=240>
 
 <b>This plugin may be updated later on. Put any issue you find in the issues tab</b>
