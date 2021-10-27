@@ -24,5 +24,15 @@ Hey I just wanted the normal halloween experience why is this candy making me se
 There are a total of 4 costumes in this plugin. Each costume gives you a different ability but some even give you 2!
 These costumes can be bought from the Costume Shop for costume essence. Different costumes cost different amounts of essence of course.
 Here are all the costumes
+<h2>Blue Hedgedog Costume</h2>
+This costume was sold by a random blue dog in a hedge. It makes you go super fast!
+  <h3>Perma Speed 2</h3>
+    Gives you speed 2, permanantly
+  <h3>Boost</h3>
+  
+ <video width="320" height="240" controls>
+  <source src="https://i.gyazo.com/d2d9ea60f6bcb3f2f16e839ea0e78e81.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 <b>This plugin may be updated later on. Put any issue you find in the issues tab</b>
