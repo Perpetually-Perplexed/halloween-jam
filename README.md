@@ -2,7 +2,7 @@
 
 Download the jar and the resource pack
 
-Put the <a href="https://drive.google.com/file/d/1iDfEeIRtJ0ROI2DprFCgdxTPUnPudN4P/view">resource pack</a> in your folder 
+Put the <a href="https://github.com/Perpetually-Perplexed/halloween-jam/releases/tag/halloween">resource pack</a> in your folder 
 
 It needs optifine to work!
 
@@ -16,3 +16,13 @@ I haven’t tested it’s compatibility with other plugins so preferably only ha
 
 If you find 1 of the million bugs, that sucks for me
 
+<h1>About</h1>
+This plugin adds many custom items. Candy from a shady candy shop. Costumes from an even shadier costume shop. 
+Hey I just wanted the normal halloween experience why is this candy making me see white things through blocks?
+
+<h1>Different types of Costumes</h1>
+There are a total of 4 costumes in this plugin. Each costume gives you a different ability but some even give you 2!
+These costumes can be bought from the Costume Shop for costume essence. Different costumes cost different amounts of essence of course.
+Here are all the costumes
+
+<b>This plugin may be updated later on. Put any issue you find in the issues tab</b>
