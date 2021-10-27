@@ -29,6 +29,6 @@ This costume was sold by a random blue dog in a hedge. It makes you go super fas
   <h3>Perma Speed 2</h3>
     Gives you speed 2, permanantly
   <h3>Boost</h3>
-  [![Image from Gyazo](https://i.gyazo.com/986eb81c338c3a17f208e2654379ffe2.gif)](https://gyazo.com/986eb81c338c3a17f208e2654379ffe2)
+  <a href="https://gyazo.com/aab6459ada3d3aa3dbd91e93136af732"><img src="https://i.gyazo.com/aab6459ada3d3aa3dbd91e93136af732.gif" alt="Image from Gyazo" width="1467.5"/></a>
 
 <b>This plugin may be updated later on. Put any issue you find in the issues tab</b>
