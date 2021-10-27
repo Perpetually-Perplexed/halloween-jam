@@ -67,7 +67,12 @@ What the fu-
 Yes, some nice organic vegan candy! It's good for your health I swear!
 
 
-<h1>Conclusion</h1>
+
 That's it for now! Maybe there could be new stuff later not a part of the Jam? Nahhhhhh
 
+
+<h1>Bugs</h1>
 <b>This plugin may be updated later on. Put any issue you find in the issues tab</b>
+<h2>Known Bugs</h2>
+Player Phone tutorial is skipped
+Weird candy shows the effect amplifier as "21" rather than "2!"
