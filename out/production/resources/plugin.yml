@@ -1,0 +1,13 @@
+name: Halloween
+version: '0.1'
+main: me.perplexed.halloween.Main
+api-version: 1.17
+authors: [ PerpetuallyPerplexed ]
+depend:
+  - ProtocolLib
+commands:
+
+  phone:
+    description: Gives you the phone
+  essence:
+    description: Checks your essence!
